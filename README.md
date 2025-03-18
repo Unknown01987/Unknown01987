@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Web Development  
 - 💞️ I’m looking to collaborate with anyone who wants to create something unique with open-source developers  
 - 📫 How to reach me:  
-      **E-mail:**  ydwivedi494@gmail.com  
-      **LinkedIn:**  [Yash Dwivedi](https://www.linkedin.com/in/yash-dwivedi-20b11031a/)  
+       **E-mail:**  ydwivedi494@gmail.com  
+       **LinkedIn:**  [Yash Dwivedi](https://www.linkedin.com/in/yash-dwivedi-20b11031a/)  
 - ⚡ **Fun fact:** In 2025, AI is evolving faster than ever, but I still believe human creativity and open-source collaboration will always be the real game-changers! 🚀💡  
 
 <!---  
