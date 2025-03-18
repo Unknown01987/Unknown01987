@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Anyone who wnat to create unique or something with open source developers
 - 📫 How to reach me ydwivedi494@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: In 2025, AI is evolving faster than ever, but I still believe human creativity and open-source collaboration will always be the real game-changers! 🚀💡
 
 <!---
 Unknown01987/Unknown01987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
